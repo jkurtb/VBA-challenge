@@ -23,12 +23,12 @@ Format the results by highlighting positive change in green and negative change 
   
 Results
 
-2014 Stock Market Analysis 
+2014 Stock Market Analysis Screenshot
 <img width="947" alt="Screenshot Stock Data Y2014" src="https://user-images.githubusercontent.com/65078870/82883896-0bd52580-9f11-11ea-9d98-16b44d1fe1c8.PNG">
 
-2015 Stock Market Analysis
+2015 Stock Market Analysis Screenshot
 <img width="947" alt="Screenshot Stock Data Y2015" src="https://user-images.githubusercontent.com/65078870/82883928-14c5f700-9f11-11ea-8832-c60a14efd5da.PNG">
 
-2016 Stock Market Analysis
+2016 Stock Market Analysis Screenshot
 <img width="946" alt="Screenshot Stock Data Y2016" src="https://user-images.githubusercontent.com/65078870/82883962-1db6c880-9f11-11ea-88b2-a4cb68fcd9e8.PNG">
 
