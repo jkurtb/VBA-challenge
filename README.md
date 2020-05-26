@@ -5,11 +5,11 @@ Stock Market Analysis
 Photo by energepic.com from Pexels
 
 
-
 <img width="947" alt="Screenshot Stock Data Y2014" src="https://user-images.githubusercontent.com/65078870/82883896-0bd52580-9f11-11ea-9d98-16b44d1fe1c8.PNG">
-
+Screenshot of Y2014 Results
 
 <img width="947" alt="Screenshot Stock Data Y2015" src="https://user-images.githubusercontent.com/65078870/82883928-14c5f700-9f11-11ea-8832-c60a14efd5da.PNG">
-
+Screenshot of Y2015 Results
 
 <img width="946" alt="Screenshot Stock Data Y2016" src="https://user-images.githubusercontent.com/65078870/82883962-1db6c880-9f11-11ea-88b2-a4cb68fcd9e8.PNG">
+Screenshot of Y2016 Results
