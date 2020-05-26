@@ -1,5 +1,6 @@
 # VBA-challenge
-Stock Market Analysis 
+Stock Market Analysis
+by J Kurt Baltero
 
 This assignment is called "The VBA of Wall Street", utilizing VBA to formulate scripts and analyze real stock market data between the years 2014-2016. 
 
