@@ -8,16 +8,17 @@ Photo by energepic.com from Pexels
 
 Scope
   
-  Loop through all the stocks for each year to consolidate the following:
-    - The ticker Symbol.
-    - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-    - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-    - The total stock volume of the stock.
-    - Greatest percent increase.
-    - Greatest percent decrease.
-    - Greatest total volume. 
+Loop through all the stocks for each year to consolidate the following:
+ 
+- The ticker Symbol.
+- Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The total stock volume of the stock.
+- Greatest percent increase.
+- Greatest percent decrease.
+- Greatest total volume. 
   
-  Format the output by highlighting positive change in green and negative change in red. 
+Format the results by highlighting positive change in green and negative change in red. 
   
 Results
 
